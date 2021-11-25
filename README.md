@@ -1,2 +1,2 @@
 # NautilusProject
-Esse repositório foi feito com o intuito de armazenar os entregáveis do processo de capacitação da Nautilus.
+This repository was done with the intention to storage the deliverables of the capacitation process of Nautilus.
