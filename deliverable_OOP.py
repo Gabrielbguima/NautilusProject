@@ -42,24 +42,3 @@ class Campeonato():
 
     def __str__(self):
         return (f'O {self.nome} está com {self.pontuacao} pontos na {self.posicao} º colocação com {self.vitorias} vitorias e {self.derrotas} derrotas')
-
-jogador1 = Campeonato('Gabriel', 32, 5, 20, 5, 2)
-jogador2 = Campeonato('Gl', 3546, 12, 10, 34, 24)
-print(jogador1)
-nomej = jogador1.pontuacao
-print(nomej)
-
-if jogador2 > jogador1:
-    print('sim')
-else:
-    print('nunca')
-
-nomej2 = jogador2.pontuacao
-print(nomej2)
-
-soma = nomej + nomej2
-print(soma)
-
-soma = nomej - nomej2
-print(soma)
-
